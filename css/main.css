@@ -9,7 +9,7 @@
 /* Estilos generales */
 
 body{
-    background: linear-gradient(99deg, rgba(251,251,251,1) 5%, rgba(199,201,201,0.7063200280112045) 100%);
+    background-color: grey;
     font-family: Roboto;
 }
 
